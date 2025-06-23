@@ -1,12 +1,12 @@
-# Privacy Policy for Lotto AI
+# Privacy Policy for 로또 AI 추첨
 
 **Last Updated: December 23, 2025**
 
 ## Overview
-Lotto AI ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our iOS application.
+로또 AI 추첨 ("the app") is a personal iOS application committed to protecting your privacy. This Privacy Policy explains how information is handled when you use this application.
 
-## Information We Collect
-Our app collects minimal information:
+## Information Collected
+This app collects minimal information:
 
 ### 1. Advertising Identifier (IDFA)
 - **What**: iOS Advertising Identifier
@@ -18,7 +18,7 @@ Our app collects minimal information:
 - **Purpose**: To improve ad relevance and app monetization
 - **How**: Collected by Google AdMob
 
-## Information We Do NOT Collect
+## Information NOT Collected
 - Personal identification information (name, email, phone number)
 - Location data
 - Contact information
@@ -27,7 +27,7 @@ Our app collects minimal information:
 - Financial information
 - User-generated content
 
-## How We Use Information
+## How Information is Used
 The advertising identifier is used solely for:
 - Serving relevant advertisements through Google AdMob
 - Measuring ad performance
@@ -35,12 +35,12 @@ The advertising identifier is used solely for:
 
 ## Third-Party Services
 ### Google AdMob
-Our app uses Google AdMob to display advertisements. AdMob may collect and use data for ad personalization. For more information about how Google uses data, please visit:
+This app uses Google AdMob to display advertisements. AdMob may collect and use data for ad personalization. For more information about how Google uses data, please visit:
 - [Google Privacy Policy](https://policies.google.com/privacy)
 - [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
 
 ## Data Storage
-- We do not store any personal data on our servers
+- No personal data is stored on any servers
 - All app data is stored locally on your device
 - Ad-related data is managed by Google AdMob according to their privacy policy
 
@@ -54,21 +54,21 @@ You can control personalized advertising through:
 When you first launch the app, you will be asked whether you want to allow tracking. You can change this preference at any time in iOS Settings.
 
 ## Children's Privacy
-Our app is not directed to children under 13. We do not knowingly collect personal information from children under 13.
+This app is not directed to children under 13. The app does not knowingly collect personal information from children under 13.
 
 ## Data Security
-We implement appropriate technical and organizational measures to protect any data processed by our app.
+Appropriate technical and organizational measures are implemented to protect any data processed by this app.
 
 ## Changes to This Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy.
+This Privacy Policy may be updated from time to time. Any changes will be indicated by updating the "Last Updated" date at the top of this policy.
 
-## Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
+## Contact
+For any questions about this Privacy Policy, please contact:
 - Email: [YOUR_EMAIL@example.com]
 
 ## Consent
-By using our app, you consent to our Privacy Policy and agree to its terms.
+By using this app, you consent to this Privacy Policy and agree to its terms.
 
 ---
 
-© 2025 Lotto AI. All rights reserved.
+© 2025 로또 AI 추첨. All rights reserved.

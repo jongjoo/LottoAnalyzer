@@ -1,6 +1,6 @@
 # Privacy Policy for 로또 AI 추첨
 
-**Last Updated: December 23, 2025**
+**Last Updated: June 24, 2025**
 
 ## Overview
 로또 AI 추첨 ("the app") is a personal iOS application committed to protecting your privacy. This Privacy Policy explains how information is handled when you use this application.
@@ -64,7 +64,7 @@ This Privacy Policy may be updated from time to time. Any changes will be indica
 
 ## Contact
 For any questions about this Privacy Policy, please contact:
-- Email: [YOUR_EMAIL@example.com]
+- Email: [[nosedot0824@gmail.com]
 
 ## Consent
 By using this app, you consent to this Privacy Policy and agree to its terms.
